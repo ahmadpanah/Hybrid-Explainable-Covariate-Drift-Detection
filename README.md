@@ -19,13 +19,13 @@ This repository implements a **Hybrid Explainable Covariate Drift Detection Fram
 1. Clone the repository:
 
 ```bash  
-   `git clone https://github.com/ahmadpanah/hybrid-drift-detection.git`  
-   `cd hybrid-drift-detection`  
+   git clone https://github.com/ahmadpanah/hybrid-drift-detection.git 
+   cd hybrid-drift-detection 
 ```
 
 ```bash
 2. Install dependencies:  
-   `pip install -r requirements.txt`  
+   pip install -r requirements.txt 
 ```
 
 3. Download datasets:  
