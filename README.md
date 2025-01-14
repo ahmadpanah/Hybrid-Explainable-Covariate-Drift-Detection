@@ -23,8 +23,9 @@ This repository implements a **Hybrid Explainable Covariate Drift Detection Fram
    cd hybrid-drift-detection 
 ```
 
+2. Install dependencies: 
+
 ```bash
-2. Install dependencies:  
    pip install -r requirements.txt 
 ```
 
