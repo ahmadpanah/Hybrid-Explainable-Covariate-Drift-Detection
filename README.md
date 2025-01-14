@@ -16,12 +16,17 @@ This repository implements a **Hybrid Explainable Covariate Drift Detection Fram
 
 ## Installation  
 
-1. Clone the repository:  
+1. Clone the repository:
+
+```bash  
    `git clone https://github.com/ahmadpanah/hybrid-drift-detection.git`  
    `cd hybrid-drift-detection`  
+```
 
+```bash
 2. Install dependencies:  
    `pip install -r requirements.txt`  
+```
 
 3. Download datasets:  
    - [PaySim](https://www.kaggle.com/ealaxi/paysim1)  
